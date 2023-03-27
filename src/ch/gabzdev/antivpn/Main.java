@@ -1,5 +1,5 @@
 package ch.gabzdev.antivpn;
-//
+
 import ch.gabzdev.antivpn.listeners.PlayerJoinListener;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

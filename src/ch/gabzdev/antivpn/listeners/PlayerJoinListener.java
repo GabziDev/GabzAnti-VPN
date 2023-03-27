@@ -1,5 +1,5 @@
 package ch.gabzdev.antivpn.listeners;
-//
+
 import ch.gabzdev.antivpn.Main;
 import java.io.IOException;
 import java.io.InputStream;
