@@ -1,5 +1,5 @@
 package ch.gabzdev.antivpn;
-
+//
 import ch.gabzdev.antivpn.listeners.PlayerJoinListener;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
@@ -26,6 +26,6 @@ public class Main extends JavaPlugin {
     }
 
     public void kickPlayer(Player player) {
-        player.kickPlayer(ChatColor.RED + kickMessage);
+        player.kickPlayer(ChatColor.AQUA + kickMessage);
     }
 }
